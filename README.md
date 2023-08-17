@@ -1,5 +1,4 @@
 # EvilCloner
-shellscript
 ```
 apt update -y
 apt upgrade -y
