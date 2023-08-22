@@ -30,7 +30,7 @@ pkg install python -y
 pkg install git -y
 pip install requests
 pip install bs4
-git clone https://github.com/EvilSoul-X/EvilCracrke
+git clone https://github.com/EvilCorp-X/EvilCracrke
 cd apt update -y
 python EvilCracrke.py
 ```
