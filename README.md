@@ -1,4 +1,4 @@
-![EvilCracker](https://h.top4top.io/p_2611gbau61.jpg)
+![EvilCracker]()
 <p align="center">Most Updated EvilCracrke</p>
 
 ## Note:
