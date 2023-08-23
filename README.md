@@ -4,7 +4,7 @@
 ## Note:
 Due to Python Version changes, EvilCracrke's Version 3.0 Wasn't Working anymore. So We updated EvilCracrke Python Version 3.10 to 3.11. And to be Noted, You Have to reInstall the Tool after removing The old one from your device. To Remove Old Version, simply type:
 ``` shell script
-rm -rf EvilCracrke
+rm -rf EvilCracker
 ```
 In your Terminal
 
@@ -19,7 +19,7 @@ In your Terminal
 To remove the old Version:
 ``` shell script
 cd ~
-rm -rf EvilCracrke
+rm -rf EvilCracker
 ```
 To Install Tool Newly:
 
