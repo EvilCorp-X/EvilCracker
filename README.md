@@ -31,7 +31,7 @@ pkg install git -y
 pip install requests
 pip install bs4
 git clone https://github.com/EvilCorp-X/EvilCracker
-cd apt update -y
+cd EvilCracker
 python EvilCracrke.py
 ```
 
