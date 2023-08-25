@@ -24,6 +24,8 @@ rm -rf EvilCracker
 To Install Tool Newly:
 
 ``` shell script
+pkg remove game-repo -y
+pkg remove science-repo -y
 apt update -y
 apt upgrade -y
 pkg install python -y
