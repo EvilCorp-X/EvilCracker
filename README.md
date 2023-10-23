@@ -34,7 +34,7 @@ pip install requests
 pip install bs4
 git clone https://github.com/EvilCorp-X/EvilCracker
 cd EvilCracker
-python EvilCracker.py
+python ECracker.py
 ```
 
 ## Note:
